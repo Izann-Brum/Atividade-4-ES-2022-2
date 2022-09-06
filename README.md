@@ -81,10 +81,10 @@ Os 2 requisitos funcionais, desse sistema a serem descritos, são os seguintes: 
 3 - **Descrição do User Storie para os requisitos:**
 
 **Requisito 1:** <Cadastrar Cliente>
-Como um <recepcionista> eu <preciso> de <permissões> especiais para <cadastrar> um novo usuário no sistema.
+Como um < recepcionista > eu < preciso > de < permissões > especiais para <cadastrar> um novo usuário no sistema.
 
 **Requisito 2:** <Efetuar Reserva>
-Como um <cliente> eu <desejo> de forma breve <locar> uma mesa do tipo família para <usufruto> na data de hoje. 
+Como um < cliente > eu < desejo > de forma breve < locar > uma mesa do tipo família para < usufruto > na data de hoje. 
 
 ----------------------------------------------------------
 
