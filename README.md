@@ -72,7 +72,7 @@ Os 2 requisitos funcionais, desse sistema a serem descritos, são os seguintes: 
 
 1.2. Sistema disponibiliza tela de cadastro
 
-2.1. Funcionário informa ao cliente que não existem quartos disponíveis.
+2.1. Funcionário informa ao cliente que não existem mesas disponíveis.
 
 2.2. Sistema encerra reserva.
 
